@@ -124,3 +124,12 @@ img {
     transform: translateX(.25rem);
 }
 
+::-webkit-scrollbar {
+    width: .6rem;
+    background-color: hsl(var(--hue), 4%, 53%);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--hue), 4%, 29%);
+    border-radius:.5rem
+}
