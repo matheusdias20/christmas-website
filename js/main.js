@@ -45,7 +45,7 @@ const seconds = document.getElementById("seconds")
 
 const currentYear = new Date().getFullYear();
 
-const merryChristmas = new Date(`Dec 25, 2022 00:00:00`);
+const merryChristmas = new Date(`Dec 25, 2023 00:00:00`);
 
 
 function updateCountdowntime() {
